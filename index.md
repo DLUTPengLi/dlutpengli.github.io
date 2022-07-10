@@ -5,7 +5,8 @@
 
 ### Publications
 
-1. sdfjlsdj
+1. Multi-view representation learning via dual optimal transportation, 
+2. A deep fusion Gaussian mixture model for multiview land data clustering,
 
 
 
