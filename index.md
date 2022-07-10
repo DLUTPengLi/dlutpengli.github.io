@@ -5,6 +5,10 @@
 
 ### Publications
 
+<ol>
+  <li> LEGAN: A Light and Effective Generative Adversarial Network for Medical Image Synthesis</li>
+</ol>
+
 1. LEGAN: A Light and Effective Generative Adversarial Network for Medical Image Synthesis
 2. Multi-view representation learning via dual optimal transportation, 
 3. A deep fusion Gaussian mixture model for multiview land data clustering,
