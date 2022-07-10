@@ -6,7 +6,7 @@
 ### Publications
 
 <ol>
-  <li> LEGAN: A Light and Effective Generative Adversarial Network for Medical Image Synthesis, <em>Computers in Biology and Medicine</em>,</li>
+  <li> LEGAN: A Light and Effective Generative Adversarial Network for Medical Image Synthesis, <em>Comput. in Biol. and Medicine</em>,</li>
   <li> Privacy-Preserving Deep Heterogeneous View Perception for Data Learning</li>
   <li> Multi-view representation learning via dual optimal transportation</li>
   <li> A deep fusion Gaussian mixture model for multiview land data clustering</li>
