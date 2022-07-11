@@ -7,7 +7,7 @@
 
 <ol>
   <li> Jing Gao, Wenhan Zhao, Peng Li, Wei Huang, and Zhikui Chen, LEGAN: A Light and Effective Generative Adversarial Network for Medical Image Synthesis, <em>Comput. in Biol. and Medicine</em>, Accepted. JCR Q1.</li>
-  <li> Peng Li, Privacy-Preserving Deep Heterogeneous View Perception for Data Learning, <em> Front. Neurorobot.</em>, 16:862535, 2022</li>
+  <li> Peng Li, Privacy-Preserving Deep Heterogeneous View Perception for Data Learning, <em> Front. Neurorobot.</em>, 16:862535, 2022, JCR Q2</li>
   <li> Multi-view representation learning via dual optimal transportation</li>
   <li> A deep fusion Gaussian mixture model for multiview land data clustering</li>
 </ol>
